@@ -1,0 +1,8 @@
+.scoreboard{
+    width: 30%;
+    height: 150px;
+    min-width: 400px;
+    margin: 10px;
+    background-color: lightgray;
+}
+
