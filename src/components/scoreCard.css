@@ -1,0 +1,10 @@
+.scoreHeader{
+    font-weight: bold;
+    text-align: center;
+    display: block;
+}
+
+.scoresContainer{
+    text-align: center;
+    display: block;
+}
